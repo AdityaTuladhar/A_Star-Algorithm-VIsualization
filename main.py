@@ -5,6 +5,7 @@ import os
 root = Tk()
 root.title("A* path finding")
 
+# 2 main frames in gui
 global grid_frame
 global add_object_frame
 
